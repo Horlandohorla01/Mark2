@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name:  springboot
-          image: kunlekush/spring1:app-bf7bc3fb70f04883d780ea67c0ec140e916eed1a
+          image: kunlekush/spring1:app-dc053cdc3506dac6b93d3c8397697decd6c53b9e
           ports:
             - containerPort: 80 
           imagePullPolicy: Always
